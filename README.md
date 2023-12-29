@@ -1,4 +1,5 @@
 ### Student from Silpakorn University who are currently practicing programming.
+----------------------------------------------
 
 <!--
 **yitaraZ/yitaraZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
